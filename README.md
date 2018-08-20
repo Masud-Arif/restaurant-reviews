@@ -33,7 +33,7 @@ For the Restaurant Reviews projects, incrementally convert a static webpage to a
 ## Dependencies
 
 - The starter code is provided by Udacity for the Udacity FEND's students.
-- The map diplayed form [Leafletjs](https://leafletjs.com/) open-source JavaScript library for mobile-friendly interactive maps && [mapbox](https://www.mapbox.com/)open source mapping platform for custom designed maps.
+- The map diplayed form [Leafletjs](https://leafletjs.com/) open-source JavaScript library for mobile-friendly interactive maps && [mapbox](https://www.mapbox.com/) open source mapping platform for custom designed maps.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) for Accessibility issues.
 - [Normalize.css](https://necolas.github.io/normalize.css/).
 - [Favicon & App Icon Generator](https://www.favicon-generator.org/).
@@ -54,7 +54,7 @@ For the Restaurant Reviews projects, incrementally convert a static webpage to a
 
 **Offline Availability**
 
--Are pages that have been visited available offline? --When available in the browser, the site uses a service worker to cache responses to requests for site assets. Visited pages are rendered when there is no network access.
+- Are pages that have been visited available offline? --When available in the browser, the site uses a service worker to cache responses to requests for site assets. Visited pages are rendered when there is no network access.
 
 ## Licence
 The contents of this repository are covered under the [MIT License](https://rem.mit-license.org/).
