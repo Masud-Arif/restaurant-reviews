@@ -25,7 +25,7 @@ For the Restaurant Reviews projects, incrementally convert a static webpage to a
     - Download [python](https://www.python.org/)
     - Check python version `python -V`
     - If you running Python 2.x Run `python -m SimpleHTTPServer 8000`
-    - If you running Python 3.x Run `python -m SimpleHTTPServer 8000`
+    - If you running Python 3.x Run `python -m http.server 8000`
     - Terminal ouput `Serving HTTP on 0.0.0.0 port 8000 ...`
 
 3. Then navigate to the browser and enter `http://localhost:8000/`
